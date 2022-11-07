@@ -68,7 +68,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="112dp"
-            android:text="TextView"
+            android:text="Right : 0 \nWrong : 0"
             app:layout_constraintEnd_toStartOf="@+id/textView8"
             app:layout_constraintHorizontal_bias="0.369"
             app:layout_constraintStart_toStartOf="parent"
@@ -80,7 +80,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="112dp"
             android:layout_marginEnd="56dp"
-            android:text="TextView"
+            android:text="Right : 0 \nWrong : 0"
             app:layout_constraintEnd_toStartOf="@+id/textView9"
             app:layout_constraintTop_toBottomOf="@+id/button7" />
 
@@ -90,7 +90,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="112dp"
             android:layout_marginEnd="60dp"
-            android:text="TextView"
+            android:text="Right : 0 \nWrong : 0"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/button8" />
 

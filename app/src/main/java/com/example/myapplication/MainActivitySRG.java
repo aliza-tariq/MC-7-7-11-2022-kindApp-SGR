@@ -78,7 +78,7 @@ public class MainActivitySRG extends AppCompatActivity {
             if(grassLetters[i]==letter)
             {
                 status=true;
-                skyRight++;
+                grassRight++;
                 break;
             }
         }
